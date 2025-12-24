@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+apscheduler
+python-dotenv
+langchain-google-genai
+langchain-core
+twilio

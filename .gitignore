@@ -1,0 +1,23 @@
+.env
+.env.*
+*.env
+*.secret
+
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local data and artifacts
+memorae.db
+*.sqlite
+*.sqlite3
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+
